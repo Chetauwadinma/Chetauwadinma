@@ -30,6 +30,6 @@
 I'm always open to discussing data challenges, potential collaborations, or just connecting with fellow data enthusiasts!
 
 * **LinkedIn:** https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
-* **Email:** [mailto uwadinmabritney85@gmail.com
+* **Email:** uwadinmabritney85@gmail.com
 
 Please come again...
