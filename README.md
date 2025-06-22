@@ -13,7 +13,7 @@
 
 ### 🚀 Featured Projects
 
-* **JustDrinks Analysis:** [] - Comprehensive Power BI dashboards and SQL analysis providing critical insights into purchases, inventory, and vendor data for executive decision-making.
+* **JustDrinks Analysis:** [https://github.com/Chetauwadinma/justdrinks] - Comprehensive Power BI dashboards and SQL analysis providing critical insights into purchases, inventory, and vendor data for executive decision-making.
 * **Top African Countries GDPs:** [https://medium.com/@brincentluv/the-pillars-of-progress-top-african-countries-through-the-lens-of-gdp-oil-and-population-b09f87c0f8c8
 * an insightful analysis and article detailing growth and metrics responsible for the growth.
 ---
